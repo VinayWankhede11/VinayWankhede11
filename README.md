@@ -3,6 +3,9 @@
 <!-- - 🌱 I’m currently learning  -->
 - 📫 How to reach me **vinaywankhede11@gmail.com**
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 <!---
 VinayWankhede11/VinayWankhede11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -12,4 +15,3 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinayWankhede11)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
